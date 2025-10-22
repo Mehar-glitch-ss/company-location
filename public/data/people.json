@@ -1,0 +1,42 @@
+[
+  {
+    "peopleId": 1,
+    "name": "Aarav Kumar",
+    "jobTitle": "Frontend Developer",
+    "department": "Engineering",
+    "about": "Aarav specializes in React and Redux for building responsive UIs.",
+    "companyId": 1
+  },
+  {
+    "peopleId": 2,
+    "name": "Priya Sharma",
+    "jobTitle": "Backend Engineer",
+    "department": "Engineering",
+    "about": "Priya works on Django REST APIs and database optimization.",
+    "companyId": 1
+  },
+  {
+    "peopleId": 3,
+    "name": "Rohan Das",
+    "jobTitle": "Data Analyst",
+    "department": "Analytics",
+    "about": "Rohan analyzes datasets using Python and Power BI to derive insights.",
+    "companyId": 2
+  },
+  {
+    "peopleId": 4,
+    "name": "Meera Patel",
+    "jobTitle": "Product Manager",
+    "department": "Product",
+    "about": "Meera oversees product roadmaps and manages client communications.",
+    "companyId": 3
+  },
+  {
+    "peopleId": 5,
+    "name": "John Smith",
+    "jobTitle": "DevOps Engineer",
+    "department": "Infrastructure",
+    "about": "John automates CI/CD pipelines and manages cloud deployments.",
+    "companyId": 4
+  }
+]

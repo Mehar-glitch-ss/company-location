@@ -1,0 +1,30 @@
+[
+  {
+    "companyId": 1,
+    "companyName": "TechNova Solutions",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "companyId": 2,
+    "companyName": "CodeSphere Labs",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India"
+  },
+  {
+    "companyId": 3,
+    "companyName": "PixelEdge Systems",
+    "city": "San Francisco",
+    "state": "California",
+    "country": "USA"
+  },
+  {
+    "companyId": 4,
+    "companyName": "DataWorx Analytics",
+    "city": "London",
+    "state": "England",
+    "country": "UK"
+  }
+]
